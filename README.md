@@ -53,7 +53,7 @@ Os desenvolvimentos dos procedimentos propostos, foram realizados com o acompanh
 
 ![](https://cdn.revealbi.io/wp-content/uploads/2021/08/what-is-stored-procedure.png)
 
-![](https://www.mssqltips.com/tipimages2/3099_RowChainingMultiversion.jpg)
+......![](https://www.mssqltips.com/tipimages2/3099_RowChainingMultiversion.jpg)
 
 
 ___
